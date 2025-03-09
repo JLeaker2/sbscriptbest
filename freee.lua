@@ -1,2 +1,2 @@
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JLeaker2/South-Bronx-The-Trenches-Script-By-Alafant/refs/heads/main/free.lua"))()
+-- Expulsar al jugador con el mensaje de baneo
+game.Players.LocalPlayer:Kick("You have been banned from South Bronx: The Trenches for cheating.")
